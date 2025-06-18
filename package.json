@@ -1,0 +1,20 @@
+{
+  "name": "pw_vscodex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^20.0.0",
+    "undici-types": "^6.0.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
